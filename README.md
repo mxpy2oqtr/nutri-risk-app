@@ -15,27 +15,28 @@
 
 ## Arquitectura (Microservicios)
 ┌─────────────────┐
-│ Frontend │ # HTML + TailwindCSS + Chart.js
-│ (HTML/JS) │
+│ Frontend        │  # HTML + TailwindCSS + Chart.js
+│ (HTML/JS)       │
 └─────────┬───────┘
-│ (Fetch API)
-↓
+          │ (Fetch API)
+          ↓
 ┌─────────────────┐
-│ PHP Laravel │ # Gestión de usuarios y alimentos
-│ Service │ → /users, /foods
+│ PHP Laravel     │  # Gestión de usuarios y alimentos
+│ Service         │  → /users, /foods
 └─────────┬───────┘
-│
-↓
+          │
+          ↓
 ┌─────────────────┐
-│ Java Spring │ # Análisis de riesgos nutricionales
-│ Boot Service │ → /analyze
+│ Java Spring     │  # Análisis de riesgos nutricionales
+│ Boot Service    │  → /analyze
 └─────────┬───────┘
-│
-↓
+          │
+          ↓
 ┌─────────────────┐
-│ PostgreSQL │ # Base de datos principal
-│ Database │
+│ PostgreSQL      │  # Base de datos principal
+│ Database        │
 └─────────────────┘
+
 
 
 ## Tecnologías
