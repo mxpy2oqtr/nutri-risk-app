@@ -47,7 +47,31 @@
 - **Frontend**: HTML + TailwindCSS + Chart.js
 - **APIs**: REST + JSON
 
-## Setup Rápido
+
+## 📋 Flujo de Datos
+
+1. **Usuario** → Frontend (interfaz web)
+2. **Frontend** → PHP Laravel (registro, login, alimentos)
+3. **PHP Laravel** → Java Spring Boot (análisis nutricional)
+4. **Java Spring Boot** → PostgreSQL (guardar resultados)
+5. **PostgreSQL** → Todos los servicios (consulta de datos)
+
+## 🛠️ Tecnologías
+
+- **Frontend**: HTML5 + TailwindCSS + Chart.js + JavaScript
+- **Backend PHP**: PHP 8.3 + Laravel (usuarios y alimentos)
+- **Backend Java**: Java 21 + Spring Boot (análisis de riesgos)
+- **Base de datos**: PostgreSQL
+- **Contenedores**: Docker + Docker Compose
+- **APIs**: REST + JSON
+
+## 🚀 Setup Rápido
 
 ```bash
+# Clonar proyecto
+git clone https://github.com/mxpy2oqtr/nutri-risk-app.git
+cd nutri-risk-app
+
+# Ejecutar con Docker
 docker-compose up -d
+```
