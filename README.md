@@ -14,6 +14,7 @@
 | Exportar reporte (PDF/CSV) | ⚙️ | Semana 4 |
 
 ## Arquitectura (Microservicios)
+```
 ┌─────────────────┐
 │ Frontend        │  # HTML + TailwindCSS + Chart.js
 │ (HTML/JS)       │
@@ -36,8 +37,7 @@
 │ PostgreSQL      │  # Base de datos principal
 │ Database        │
 └─────────────────┘
-
-
+```
 
 ## Tecnologías
 - **Java 21 + Spring Boot** → análisis de riesgos (lógica compleja)
