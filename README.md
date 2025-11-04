@@ -15,27 +15,40 @@
 
 ## Arquitectura (Microservicios)
 ```
-┌─────────────────┐
-│ Frontend        │  # HTML + TailwindCSS + Chart.js
-│ (HTML/JS)       │
-└─────────┬───────┘
-          │ (Fetch API)
-          ↓
-┌─────────────────┐
-│ PHP Laravel     │  # Gestión de usuarios y alimentos
-│ Service         │  → /users, /foods
-└─────────┬───────┘
-          │
-          ↓
-┌─────────────────┐
-│ Java Spring     │  # Análisis de riesgos nutricionales
-│ Boot Service    │  → /analyze
-└─────────┬───────┘
-          │
-          ↓
-┌─────────────────┐
-│ PostgreSQL      │  # Base de datos principal
-│ Database        │
+┌─────────────────────────────────────────────────┐
+│                   FRONTEND                      │
+│ (HTML + TailwindCSS + Chart.js + JS)            │
+│ • Interfaz de usuario                           │
+│ • Dashboard visual                              │
+│ • Alertas en tiempo real                        │
+└───────────────────────────┬─────────────────────┘
+                            │
+                            │ (API Calls)
+                            ↓
+┌─────────────────────────────────────────────────┐
+│             PHP LARAVEL SERVICE                │
+│ • Gestión de usuarios (/users)                 │
+│ • Registro de alimentos (/foods)               │
+│ • Autenticación y autorización                 │
+└───────────────────────────┬─────────────────────┘
+                            │
+                            │ (Análisis solicitado)
+                            ↓
+┌─────────────────────────────────────────────────┐
+│           JAVA SPRING BOOT SERVICE             │
+│ • Análisis de alergenos (/analyze)             │
+│ • Cálculo de riesgo glucémico                  │
+│ • Procesamiento nutricional avanzado           │
+└───────────────────────────┬─────────────────────┘
+                            │
+                            │ (Persistencia)
+                            ↓
+┌─────────────────────────────────────────────────┐
+│                  POSTGRESQL DB                 │
+│ • Almacenamiento de todos los datos            │
+│ • Historial de usuarios y análisis             │
+└─────────────────────────────────────────────────┘
+
 └─────────────────┘
 ```
 
@@ -75,3 +88,52 @@ cd nutri-risk-app
 # Ejecutar con Docker
 docker-compose up -d
 ```
+
+-------------------------------------------------------
+
+
+### Servicios y Responsabilidades
+
+#### 🎨 Frontend (HTML/JS/Chart.js)
+- **Tecnología**: HTML5, TailwindCSS, JavaScript, Chart.js
+- **Responsabilidad**: Interfaz de usuario, visualización de datos
+- **Comunicación**: Fetch API hacia backend PHP
+
+#### 🔐 PHP Laravel Service
+- **Tecnología**: PHP 8.3, Laravel Framework
+- **Endpoints**:
+  - `POST /api/register` - Registro de usuarios
+  - `POST /api/login` - Autenticación
+  - `POST /api/foods` - Registrar alimentos consumidos
+  - `GET /api/foods` - Obtener historial de alimentos
+- **Responsabilidad**: Gestión de usuarios y registro de alimentos
+
+#### 🔬 Java Spring Boot Service
+- **Tecnología**: Java 21, Spring Boot
+- **Endpoints**:
+  - `POST /api/analyze` - Análisis de riesgo nutricional
+  - `GET /api/risks/{userId}` - Obtener historial de riesgos
+- **Responsabilidad**: Análisis avanzado de riesgos (alergenos, glucosa, etc.)
+
+#### 💾 PostgreSQL Database
+- **Tecnología**: PostgreSQL 15+
+- **Esquemas**: usuarios, alimentos, análisis_riesgos, historial
+- **Responsabilidad**: Almacenamiento persistente de datos
+
+### Flujo de una Consulta Típica
+1. Usuario ingresa alimento en frontend
+2. Frontend envía a PHP Laravel (`POST /api/foods`)
+3. PHP Laravel guarda en PostgreSQL y envía a Java (`POST /api/analyze`)
+4. Java Spring Boot analiza riesgos y devuelve resultados
+5. Frontend muestra alertas y actualiza dashboard
+
+## 🚀 Ejecución
+```bash
+docker-compose up -d
+
+--------------------------------------------------------
+
+📅 Demo (Semana 4)
+[Video demo aquí]
+
+¡Entrega antes del 4 de diciembre!
