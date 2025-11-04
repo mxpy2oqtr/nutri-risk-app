@@ -14,12 +14,28 @@
 | Exportar reporte (PDF/CSV) | ⚙️ | Semana 4 |
 
 ## Arquitectura (Microservicios)
-[Frontend: HTML/JS]
-↓ (fetch API)
-[API Gateway - futuro] → /users, /foods → [PHP Service: Laravel]
-→ /analyze → [Java Service: Spring Boot]
+┌─────────────────┐
+│ Frontend │ # HTML + TailwindCSS + Chart.js
+│ (HTML/JS) │
+└─────────┬───────┘
+│ (Fetch API)
 ↓
-[PostgreSQL]
+┌─────────────────┐
+│ PHP Laravel │ # Gestión de usuarios y alimentos
+│ Service │ → /users, /foods
+└─────────┬───────┘
+│
+↓
+┌─────────────────┐
+│ Java Spring │ # Análisis de riesgos nutricionales
+│ Boot Service │ → /analyze
+└─────────┬───────┘
+│
+↓
+┌─────────────────┐
+│ PostgreSQL │ # Base de datos principal
+│ Database │
+└─────────────────┘
 
 
 ## Tecnologías
