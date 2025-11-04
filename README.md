@@ -34,14 +34,3 @@
 
 ```bash
 docker-compose up -d
-
-graph TD
-    A[Frontend<br/>HTML + JS + Chart.js] -->|POST /api/meals| B[PHP Service<br/>Laravel]
-    A -->|GET /dashboard| B
-    B -->|HTTP POST /analyze| C[Java Service<br/>Spring Boot]
-    B --> D[(PostgreSQL)]
-    C --> D
-    subgraph "Microservicios"
-        B
-        C
-    end
