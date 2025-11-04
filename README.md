@@ -48,8 +48,6 @@
 │ • Almacenamiento de todos los datos            │
 │ • Historial de usuarios y análisis             │
 └─────────────────────────────────────────────────┘
-
-└─────────────────┘
 ```
 
 ## Tecnologías
