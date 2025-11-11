@@ -1,0 +1,3738 @@
+
+    Directory: C:\Users\white\Documents\nutri-risk-app
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                database
+d----          11/11/2025    12:53                docker
+d----          11/11/2025    12:53                docs
+d----          04/11/2025    20:44                frontend
+d----          11/11/2025    12:53                infra
+d----          11/11/2025    12:53                services
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\database
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                backups
+d----          11/11/2025    12:58                init
+d----          04/11/2025    20:44                migrations
+d----          04/11/2025    20:44                scripts
+d----          11/11/2025    12:58                seeds
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\docs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          04/11/2025    20:44                api
+d----          04/11/2025    20:44                architecture
+d----          11/11/2025    12:53                deployment
+d----          11/11/2025    12:53                development
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\frontend
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          04/11/2025    20:44                assets
+d----          04/11/2025    20:44                css
+d----          04/11/2025    20:44                js
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\infra
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                docker
+d----          11/11/2025    12:54                k8s
+d----          11/11/2025    12:53                scripts
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\infra\docker
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          04/11/2025    20:44                compose
+d----          04/11/2025    20:44                config
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\infra\k8s
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          04/11/2025    20:44                existing
+d----          11/11/2025    12:53                frontend
+d----          11/11/2025    12:53                ingress
+d----          11/11/2025    12:53                java-risk
+d----          11/11/2025    12:53                php-food
+d----          11/11/2025    12:53                postgres
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                api-gateway
+d----          11/11/2025    12:53                food-service
+d----          11/11/2025    12:53                risk-service
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                app
+d----          11/11/2025    12:53                bootstrap
+d----          11/11/2025    12:53                config
+d----          11/11/2025    12:53                database
+d----          11/11/2025    12:53                public
+d----          11/11/2025    12:53                resources
+d----          11/11/2025    12:53                routes
+d----          11/11/2025    12:53                storage
+d----          11/11/2025    12:53                tests
+d----          11/11/2025    12:53                vendor
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\app
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Http
+d----          11/11/2025    12:53                Models
+d----          11/11/2025    12:53                Providers
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\app\Http
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Controllers
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\bootstrap
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                cache
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\database
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                factories
+d----          11/11/2025    12:53                migrations
+d----          11/11/2025    12:53                seeders
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                css
+d----          11/11/2025    12:53                js
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\storage
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                app
+d----          11/11/2025    12:53                framework
+d----          11/11/2025    12:53                logs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\storage\app
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                private
+d----          11/11/2025    12:53                public
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\storage\framework
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                cache
+d----          11/11/2025    12:53                sessions
+d----          11/11/2025    12:53                testing
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\storage\framework\cache
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                data
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\tests
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Feature
+d----          11/11/2025    12:53                Unit
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                brick
+d----          11/11/2025    12:53                carbonphp
+d----          11/11/2025    12:53                composer
+d----          11/11/2025    12:53                dflydev
+d----          11/11/2025    12:53                doctrine
+d----          11/11/2025    12:53                dragonmantank
+d----          11/11/2025    12:53                egulias
+d----          11/11/2025    12:53                fakerphp
+d----          11/11/2025    12:53                filp
+d----          11/11/2025    12:53                fruitcake
+d----          11/11/2025    12:53                graham-campbell
+d----          11/11/2025    12:53                guzzlehttp
+d----          11/11/2025    12:53                hamcrest
+d----          11/11/2025    12:53                laravel
+d----          11/11/2025    12:53                league
+d----          11/11/2025    12:53                mockery
+d----          11/11/2025    12:53                monolog
+d----          11/11/2025    12:53                myclabs
+d----          11/11/2025    12:53                nesbot
+d----          11/11/2025    12:53                nette
+d----          11/11/2025    12:53                nikic
+d----          11/11/2025    12:53                nunomaduro
+d----          11/11/2025    12:53                phar-io
+d----          11/11/2025    12:53                phpoption
+d----          11/11/2025    12:53                phpunit
+d----          11/11/2025    12:53                psr
+d----          11/11/2025    12:53                psy
+d----          11/11/2025    12:53                ralouphie
+d----          11/11/2025    12:53                ramsey
+d----          11/11/2025    12:53                sebastian
+d----          11/11/2025    12:53                staabm
+d----          11/11/2025    12:53                symfony
+d----          11/11/2025    12:53                theseer
+d----          11/11/2025    12:53                tijsverkoyen
+d----          11/11/2025    12:53                vlucas
+d----          11/11/2025    12:53                voku
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\brick
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                math
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\brick\math
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\brick\math\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Internal
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\brick\math\src\Internal
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Calculator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\carbonphp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                carbon-doctrine-types
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\carbonphp\carbon-doctrine-types
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\carbonphp\carbon-doctrine-types\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Carbon
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\carbonphp\carbon-doctrine-types\src\Carbon
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Doctrine
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\dflydev
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                dot-access-data
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\dflydev\dot-access-data
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\dflydev\dot-access-data\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\doctrine
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                inflector
+d----          11/11/2025    12:53                lexer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\doctrine\inflector
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                docs
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\doctrine\inflector\docs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                en
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\doctrine\inflector\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Rules
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\doctrine\inflector\src\Rules
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                English
+d----          11/11/2025    12:53                Esperanto
+d----          11/11/2025    12:53                French
+d----          11/11/2025    12:53                Italian
+d----          11/11/2025    12:53                NorwegianBokmal
+d----          11/11/2025    12:53                Portuguese
+d----          11/11/2025    12:53                Spanish
+d----          11/11/2025    12:53                Turkish
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\doctrine\lexer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\dragonmantank
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                cron-expression
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\dragonmantank\cron-expression
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\dragonmantank\cron-expression\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Cron
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\egulias
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                email-validator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\egulias\email-validator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\egulias\email-validator\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Result
+d----          11/11/2025    12:53                Validation
+d----          11/11/2025    12:53                Warning
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\egulias\email-validator\src\Parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                CommentStrategy
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\egulias\email-validator\src\Result
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Reason
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\egulias\email-validator\src\Validation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Extra
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fakerphp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                faker
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fakerphp\faker
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fakerphp\faker\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Faker
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fakerphp\faker\src\Faker
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Calculator
+d----          11/11/2025    12:53                Container
+d----          11/11/2025    12:53                Core
+d----          11/11/2025    12:53                Extension
+d----          11/11/2025    12:53                Guesser
+d----          11/11/2025    12:53                ORM
+d----          11/11/2025    12:53                Provider
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fakerphp\faker\src\Faker\ORM
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                CakePHP
+d----          11/11/2025    12:53                Doctrine
+d----          11/11/2025    12:53                Mandango
+d----          11/11/2025    12:53                Propel
+d----          11/11/2025    12:53                Propel2
+d----          11/11/2025    12:53                Spot
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fakerphp\faker\src\Faker\Provider
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                ar_EG
+d----          11/11/2025    12:53                ar_JO
+d----          11/11/2025    12:53                ar_SA
+d----          11/11/2025    12:53                at_AT
+d----          11/11/2025    12:53                bg_BG
+d----          11/11/2025    12:53                bn_BD
+d----          11/11/2025    12:53                cs_CZ
+d----          11/11/2025    12:53                da_DK
+d----          11/11/2025    12:53                de_AT
+d----          11/11/2025    12:53                de_CH
+d----          11/11/2025    12:53                de_DE
+d----          11/11/2025    12:53                el_CY
+d----          11/11/2025    12:53                el_GR
+d----          11/11/2025    12:53                en_AU
+d----          11/11/2025    12:53                en_CA
+d----          11/11/2025    12:53                en_GB
+d----          11/11/2025    12:53                en_HK
+d----          11/11/2025    12:53                en_IN
+d----          11/11/2025    12:53                en_NG
+d----          11/11/2025    12:53                en_NZ
+d----          11/11/2025    12:53                en_PH
+d----          11/11/2025    12:53                en_SG
+d----          11/11/2025    12:53                en_UG
+d----          11/11/2025    12:53                en_US
+d----          11/11/2025    12:53                en_ZA
+d----          11/11/2025    12:53                es_AR
+d----          11/11/2025    12:53                es_ES
+d----          11/11/2025    12:53                es_PE
+d----          11/11/2025    12:53                es_VE
+d----          11/11/2025    12:53                et_EE
+d----          11/11/2025    12:53                fa_IR
+d----          11/11/2025    12:53                fi_FI
+d----          11/11/2025    12:53                fr_BE
+d----          11/11/2025    12:53                fr_CA
+d----          11/11/2025    12:53                fr_CH
+d----          11/11/2025    12:53                fr_FR
+d----          11/11/2025    12:53                he_IL
+d----          11/11/2025    12:53                hr_HR
+d----          11/11/2025    12:53                hu_HU
+d----          11/11/2025    12:53                hy_AM
+d----          11/11/2025    12:53                id_ID
+d----          11/11/2025    12:53                is_IS
+d----          11/11/2025    12:53                it_CH
+d----          11/11/2025    12:53                it_IT
+d----          11/11/2025    12:53                ja_JP
+d----          11/11/2025    12:53                ka_GE
+d----          11/11/2025    12:53                kk_KZ
+d----          11/11/2025    12:53                ko_KR
+d----          11/11/2025    12:53                lt_LT
+d----          11/11/2025    12:53                lv_LV
+d----          11/11/2025    12:53                me_ME
+d----          11/11/2025    12:53                mn_MN
+d----          11/11/2025    12:53                ms_MY
+d----          11/11/2025    12:53                nb_NO
+d----          11/11/2025    12:53                ne_NP
+d----          11/11/2025    12:53                nl_BE
+d----          11/11/2025    12:53                nl_NL
+d----          11/11/2025    12:53                pl_PL
+d----          11/11/2025    12:53                pt_BR
+d----          11/11/2025    12:53                pt_PT
+d----          11/11/2025    12:53                ro_MD
+d----          11/11/2025    12:53                ro_RO
+d----          11/11/2025    12:53                ru_RU
+d----          11/11/2025    12:53                sk_SK
+d----          11/11/2025    12:53                sl_SI
+d----          11/11/2025    12:53                sr_Cyrl_RS
+d----          11/11/2025    12:53                sr_Latn_RS
+d----          11/11/2025    12:53                sr_RS
+d----          11/11/2025    12:53                sv_SE
+d----          11/11/2025    12:53                th_TH
+d----          11/11/2025    12:53                tr_TR
+d----          11/11/2025    12:53                uk_UA
+d----          11/11/2025    12:53                vi_VN
+d----          11/11/2025    12:53                zh_CN
+d----          11/11/2025    12:53                zh_TW
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\filp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                whoops
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\filp\whoops
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\filp\whoops\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Whoops
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\filp\whoops\src\Whoops
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Handler
+d----          11/11/2025    12:53                Inspector
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Util
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\filp\whoops\src\Whoops\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                css
+d----          11/11/2025    12:53                js
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fruitcake
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                php-cors
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fruitcake\php-cors
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\fruitcake\php-cors\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\graham-campbell
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                result-type
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\graham-campbell\result-type
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                guzzle
+d----          11/11/2025    12:53                promises
+d----          11/11/2025    12:53                psr7
+d----          11/11/2025    12:53                uri-template
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp\guzzle
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp\guzzle\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Cookie
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Handler
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp\promises
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp\psr7
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp\psr7\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\guzzlehttp\uri-template
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\hamcrest
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                hamcrest-php
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\hamcrest\hamcrest-php
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                generator
+d----          11/11/2025    12:53                hamcrest
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\hamcrest\hamcrest-php\generator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                parts
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\hamcrest\hamcrest-php\hamcrest
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Hamcrest
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\hamcrest\hamcrest-php\hamcrest\Hamcrest
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Arrays
+d----          11/11/2025    12:53                Collection
+d----          11/11/2025    12:53                Core
+d----          11/11/2025    12:53                Internal
+d----          11/11/2025    12:53                Number
+d----          11/11/2025    12:53                Text
+d----          11/11/2025    12:53                Type
+d----          11/11/2025    12:53                Xml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                framework
+d----          11/11/2025    12:53                pail
+d----          11/11/2025    12:53                pint
+d----          11/11/2025    12:53                prompts
+d----          11/11/2025    12:53                sail
+d----          11/11/2025    12:53                serializable-closure
+d----          11/11/2025    12:53                tinker
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                config
+d----          11/11/2025    12:53                config-stubs
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Illuminate
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Auth
+d----          11/11/2025    12:53                Broadcasting
+d----          11/11/2025    12:53                Bus
+d----          11/11/2025    12:53                Cache
+d----          11/11/2025    12:53                Collections
+d----          11/11/2025    12:53                Concurrency
+d----          11/11/2025    12:53                Conditionable
+d----          11/11/2025    12:53                Config
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Container
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Cookie
+d----          11/11/2025    12:53                Database
+d----          11/11/2025    12:53                Encryption
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Filesystem
+d----          11/11/2025    12:53                Foundation
+d----          11/11/2025    12:53                Hashing
+d----          11/11/2025    12:53                Http
+d----          11/11/2025    12:53                JsonSchema
+d----          11/11/2025    12:53                Log
+d----          11/11/2025    12:53                Macroable
+d----          11/11/2025    12:53                Mail
+d----          11/11/2025    12:53                Notifications
+d----          11/11/2025    12:53                Pagination
+d----          11/11/2025    12:53                Pipeline
+d----          11/11/2025    12:53                Process
+d----          11/11/2025    12:53                Queue
+d----          11/11/2025    12:53                Redis
+d----          11/11/2025    12:53                Routing
+d----          11/11/2025    12:53                Session
+d----          11/11/2025    12:53                Support
+d----          11/11/2025    12:53                Testing
+d----          11/11/2025    12:53                Translation
+d----          11/11/2025    12:53                Validation
+d----          11/11/2025    12:53                View
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Auth
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Access
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Listeners
+d----          11/11/2025    12:53                Middleware
+d----          11/11/2025    12:53                Notifications
+d----          11/11/2025    12:53                Passwords
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Auth\Access
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Events
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Auth\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Auth\Console\stubs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                make
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Auth\Console\stubs\make
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Auth\Console\stubs\make\views
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                layouts
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Broadcasting
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Broadcasters
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Bus
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Events
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Cache
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                RateLimiting
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Cache\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Collections
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Concurrency
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Conditionable
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                resources
+d----          11/11/2025    12:53                Scheduling
+d----          11/11/2025    12:53                View
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Console\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Console\resources\views
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                components
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Console\View
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Components
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Console\View\Components
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Mutators
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Container
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attributes
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Contracts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Auth
+d----          11/11/2025    12:53                Broadcasting
+d----          11/11/2025    12:53                Bus
+d----          11/11/2025    12:53                Cache
+d----          11/11/2025    12:53                Concurrency
+d----          11/11/2025    12:53                Config
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Container
+d----          11/11/2025    12:53                Cookie
+d----          11/11/2025    12:53                Database
+d----          11/11/2025    12:53                Debug
+d----          11/11/2025    12:53                Encryption
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Filesystem
+d----          11/11/2025    12:53                Foundation
+d----          11/11/2025    12:53                Hashing
+d----          11/11/2025    12:53                Http
+d----          11/11/2025    12:53                Log
+d----          11/11/2025    12:53                Mail
+d----          11/11/2025    12:53                Notifications
+d----          11/11/2025    12:53                Pagination
+d----          11/11/2025    12:53                Pipeline
+d----          11/11/2025    12:53                Process
+d----          11/11/2025    12:53                Queue
+d----          11/11/2025    12:53                Redis
+d----          11/11/2025    12:53                Routing
+d----          11/11/2025    12:53                Session
+d----          11/11/2025    12:53                Support
+d----          11/11/2025    12:53                Translation
+d----          11/11/2025    12:53                Validation
+d----          11/11/2025    12:53                View
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Contracts\Auth
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Access
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Contracts\Database
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Eloquent
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Query
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Contracts\Session
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Cookie
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Capsule
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Connectors
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Eloquent
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Migrations
+d----          11/11/2025    12:53                Query
+d----          11/11/2025    12:53                Schema
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Factories
+d----          11/11/2025    12:53                Migrations
+d----          11/11/2025    12:53                Seeds
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Console\Factories
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Console\Seeds
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Eloquent
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attributes
+d----          11/11/2025    12:53                Casts
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Factories
+d----          11/11/2025    12:53                Relations
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Eloquent\Relations
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Migrations
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Query
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Grammars
+d----          11/11/2025    12:53                Processors
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Database\Schema
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Grammars
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Auth
+d----          11/11/2025    12:53                Bootstrap
+d----          11/11/2025    12:53                Bus
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Configuration
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Http
+d----          11/11/2025    12:53                Providers
+d----          11/11/2025    12:53                Queue
+d----          11/11/2025    12:53                resources
+d----          11/11/2025    12:53                Routing
+d----          11/11/2025    12:53                stubs
+d----          11/11/2025    12:53                Support
+d----          11/11/2025    12:53                Testing
+d----          11/11/2025    12:53                Validation
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Auth
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Access
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Exceptions
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Renderer
+d----          11/11/2025    12:53                views
+d----          11/11/2025    12:53                Whoops
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Exceptions\Renderer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Mappers
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Http
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Http\Middleware
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\resources\exceptions
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                renderer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\resources\exceptions\renderer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                components
+d----          11/11/2025    12:53                dist
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\resources\exceptions\renderer\components
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                icons
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Support
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Providers
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Foundation\Testing
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Http
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Client
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Middleware
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Testing
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Http\Client
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Events
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Http\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Json
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\JsonSchema
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Types
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Log
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Context
+d----          11/11/2025    12:53                Events
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Log\Context
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Events
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Macroable
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Mail
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Mailables
+d----          11/11/2025    12:53                resources
+d----          11/11/2025    12:53                Transport
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Mail\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Mail\resources\views
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                html
+d----          11/11/2025    12:53                text
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Mail\resources\views\html
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                themes
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Notifications
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Channels
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Messages
+d----          11/11/2025    12:53                resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Notifications\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Notifications\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Pagination
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Pagination\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Process
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Queue
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attributes
+d----          11/11/2025    12:53                Capsule
+d----          11/11/2025    12:53                Connectors
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Failed
+d----          11/11/2025    12:53                Jobs
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Queue\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Redis
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Connections
+d----          11/11/2025    12:53                Connectors
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Limiters
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Routing
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Controllers
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Matching
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Routing\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Session
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Session\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Support
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Defer
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Facades
+d----          11/11/2025    12:53                Testing
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Support\Testing
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Fakes
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Testing
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Constraints
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Fluent
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Testing\Fluent
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Translation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                lang
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Translation\lang
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                en
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\Validation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Rules
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\View
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Compilers
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Engines
+d----          11/11/2025    12:53                Middleware
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\framework\src\Illuminate\View\Compilers
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pail
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pail\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Guards
+d----          11/11/2025    12:53                Printers
+d----          11/11/2025    12:53                ValueObjects
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pail\src\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Commands
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pail\src\ValueObjects
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Origin
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pint
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                builds
+d----          11/11/2025    12:53                overrides
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pint\overrides
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Runner
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\pint\overrides\Runner
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Parallel
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\prompts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\prompts\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Output
+d----          11/11/2025    12:53                Support
+d----          11/11/2025    12:53                Themes
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\prompts\src\Themes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Default
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\prompts\src\Themes\Default
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\sail
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                database
+d----          11/11/2025    12:53                runtimes
+d----          11/11/2025    12:53                src
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\sail\database
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                mariadb
+d----          11/11/2025    12:53                mysql
+d----          11/11/2025    12:53                pgsql
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\sail\runtimes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                8.0
+d----          11/11/2025    12:53                8.1
+d----          11/11/2025    12:53                8.2
+d----          11/11/2025    12:53                8.3
+d----          11/11/2025    12:53                8.4
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\sail\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\sail\src\Console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Concerns
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\serializable-closure
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\serializable-closure\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Serializers
+d----          11/11/2025    12:53                Signers
+d----          11/11/2025    12:53                Support
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\tinker
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                config
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\laravel\tinker\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Console
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                commonmark
+d----          11/11/2025    12:53                config
+d----          11/11/2025    12:53                flysystem
+d----          11/11/2025    12:53                flysystem-local
+d----          11/11/2025    12:53                mime-type-detection
+d----          11/11/2025    12:53                uri
+d----          11/11/2025    12:53                uri-interfaces
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Delimiter
+d----          11/11/2025    12:53                Environment
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Extension
+d----          11/11/2025    12:53                Input
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Normalizer
+d----          11/11/2025    12:53                Output
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Reference
+d----          11/11/2025    12:53                Renderer
+d----          11/11/2025    12:53                Util
+d----          11/11/2025    12:53                Xml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Delimiter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Processor
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attributes
+d----          11/11/2025    12:53                Autolink
+d----          11/11/2025    12:53                CommonMark
+d----          11/11/2025    12:53                DefaultAttributes
+d----          11/11/2025    12:53                DescriptionList
+d----          11/11/2025    12:53                DisallowedRawHtml
+d----          11/11/2025    12:53                Embed
+d----          11/11/2025    12:53                ExternalLink
+d----          11/11/2025    12:53                Footnote
+d----          11/11/2025    12:53                FrontMatter
+d----          11/11/2025    12:53                HeadingPermalink
+d----          11/11/2025    12:53                InlinesOnly
+d----          11/11/2025    12:53                Mention
+d----          11/11/2025    12:53                SmartPunct
+d----          11/11/2025    12:53                Strikethrough
+d----          11/11/2025    12:53                Table
+d----          11/11/2025    12:53                TableOfContents
+d----          11/11/2025    12:53                TaskList
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\Attributes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Util
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\CommonMark
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Delimiter
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Renderer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\CommonMark\Delimiter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Processor
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\CommonMark\Node
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Block
+d----          11/11/2025    12:53                Inline
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\CommonMark\Parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Block
+d----          11/11/2025    12:53                Inline
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\CommonMark\Renderer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Block
+d----          11/11/2025    12:53                Inline
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\DescriptionList
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Renderer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\Embed
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Bridge
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\Footnote
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Renderer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\FrontMatter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Data
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Input
+d----          11/11/2025    12:53                Listener
+d----          11/11/2025    12:53                Output
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\Mention
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Generator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Extension\TableOfContents
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Normalizer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Node
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Block
+d----          11/11/2025    12:53                Inline
+d----          11/11/2025    12:53                Query
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Block
+d----          11/11/2025    12:53                Inline
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\commonmark\src\Renderer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Block
+d----          11/11/2025    12:53                Inline
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\config
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\config\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\flysystem
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\flysystem\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                UnixVisibility
+d----          11/11/2025    12:53                UrlGeneration
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\mime-type-detection
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\uri
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                UriTemplate
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\league\uri-interfaces
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Idna
+d----          11/11/2025    12:53                IPv4
+d----          11/11/2025    12:53                IPv6
+d----          11/11/2025    12:53                KeyValuePair
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                mockery
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                docs
+d----          11/11/2025    12:53                library
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery\docs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                _static
+d----          11/11/2025    12:53                cookbook
+d----          11/11/2025    12:53                getting_started
+d----          11/11/2025    12:53                mockery
+d----          11/11/2025    12:53                reference
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery\library
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Mockery
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery\library\Mockery
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Adapter
+d----          11/11/2025    12:53                CountValidator
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Generator
+d----          11/11/2025    12:53                Loader
+d----          11/11/2025    12:53                Matcher
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery\library\Mockery\Adapter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Phpunit
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery\library\Mockery\Generator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                StringManipulation
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\mockery\mockery\library\Mockery\Generator\StringManipulation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Pass
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\monolog
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                monolog
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\monolog\monolog
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\monolog\monolog\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Monolog
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\monolog\monolog\src\Monolog
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                Formatter
+d----          11/11/2025    12:53                Handler
+d----          11/11/2025    12:53                Processor
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\monolog\monolog\src\Monolog\Handler
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Curl
+d----          11/11/2025    12:53                FingersCrossed
+d----          11/11/2025    12:53                Slack
+d----          11/11/2025    12:53                SyslogUdp
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                deep-copy
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs\deep-copy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs\deep-copy\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                DeepCopy
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs\deep-copy\src\DeepCopy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Filter
+d----          11/11/2025    12:53                Matcher
+d----          11/11/2025    12:53                Reflection
+d----          11/11/2025    12:53                TypeFilter
+d----          11/11/2025    12:53                TypeMatcher
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs\deep-copy\src\DeepCopy\Filter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Doctrine
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs\deep-copy\src\DeepCopy\Matcher
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Doctrine
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\myclabs\deep-copy\src\DeepCopy\TypeFilter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Date
+d----          11/11/2025    12:53                Spl
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nesbot
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                carbon
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nesbot\carbon
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                lazy
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nesbot\carbon\lazy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Carbon
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nesbot\carbon\lazy\Carbon
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                MessageFormatter
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nesbot\carbon\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Carbon
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nesbot\carbon\src\Carbon
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Cli
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Lang
+d----          11/11/2025    12:53                Laravel
+d----          11/11/2025    12:53                List
+d----          11/11/2025    12:53                MessageFormatter
+d----          11/11/2025    12:53                PHPStan
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nette
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                schema
+d----          11/11/2025    12:53                utils
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nette\schema
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nette\schema\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Schema
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nette\schema\src\Schema
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Elements
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nette\utils
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nette\utils\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Iterators
+d----          11/11/2025    12:53                Utils
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                php-parser
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                lib
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                PhpParser
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib\PhpParser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Builder
+d----          11/11/2025    12:53                Comment
+d----          11/11/2025    12:53                ErrorHandler
+d----          11/11/2025    12:53                Internal
+d----          11/11/2025    12:53                Lexer
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                NodeVisitor
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                PrettyPrinter
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib\PhpParser\Lexer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                TokenEmulator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib\PhpParser\Node
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Expr
+d----          11/11/2025    12:53                Name
+d----          11/11/2025    12:53                Scalar
+d----          11/11/2025    12:53                Stmt
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib\PhpParser\Node\Expr
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                AssignOp
+d----          11/11/2025    12:53                BinaryOp
+d----          11/11/2025    12:53                Cast
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib\PhpParser\Node\Scalar
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                MagicConst
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nikic\php-parser\lib\PhpParser\Node\Stmt
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                TraitUseAdaptation
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                collision
+d----          11/11/2025    12:53                termwind
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                .temp
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Adapters
+d----          11/11/2025    12:53                Contracts
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                SolutionsRepositories
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision\src\Adapters
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Laravel
+d----          11/11/2025    12:53                Phpunit
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision\src\Adapters\Laravel
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Commands
+d----          11/11/2025    12:53                Exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision\src\Adapters\Phpunit
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Printers
+d----          11/11/2025    12:53                Subscribers
+d----          11/11/2025    12:53                Support
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision\src\Contracts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Adapters
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\collision\src\Contracts\Adapters
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Phpunit
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\termwind
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\nunomaduro\termwind\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Actions
+d----          11/11/2025    12:53                Components
+d----          11/11/2025    12:53                Enums
+d----          11/11/2025    12:53                Exceptions
+d----          11/11/2025    12:53                Helpers
+d----          11/11/2025    12:53                Html
+d----          11/11/2025    12:53                Laravel
+d----          11/11/2025    12:53                Repositories
+d----          11/11/2025    12:53                ValueObjects
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                manifest
+d----          11/11/2025    12:53                version
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io\manifest
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                .github
+d----          11/11/2025    12:53                src
+d----          11/11/2025    12:53                tools
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io\manifest\.github
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                workflows
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io\manifest\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+d----          11/11/2025    12:53                values
+d----          11/11/2025    12:53                xml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io\manifest\tools
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                php-cs-fixer.d
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io\version
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phar-io\version\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                constraints
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpoption
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                phpoption
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpoption\phpoption
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpoption\phpoption\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                PhpOption
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                php-code-coverage
+d----          11/11/2025    12:53                php-file-iterator
+d----          11/11/2025    12:53                php-invoker
+d----          11/11/2025    12:53                php-text-template
+d----          11/11/2025    12:53                php-timer
+d----          11/11/2025    12:53                phpunit
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-code-coverage
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-code-coverage\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Data
+d----          11/11/2025    12:53                Driver
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Report
+d----          11/11/2025    12:53                StaticAnalysis
+d----          11/11/2025    12:53                TestSize
+d----          11/11/2025    12:53                TestStatus
+d----          11/11/2025    12:53                Util
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-code-coverage\src\Report
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Html
+d----          11/11/2025    12:53                Xml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-code-coverage\src\Report\Html
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Renderer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-code-coverage\src\Report\Html\Renderer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Template
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-code-coverage\src\Report\Html\Renderer\Template
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                css
+d----          11/11/2025    12:53                icons
+d----          11/11/2025    12:53                js
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-file-iterator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-invoker
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-invoker\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-text-template
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                .psalm
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-text-template\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-timer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\php-timer\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                schema
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                Framework
+d----          11/11/2025    12:53                Logging
+d----          11/11/2025    12:53                Metadata
+d----          11/11/2025    12:53                Runner
+d----          11/11/2025    12:53                TextUI
+d----          11/11/2025    12:53                Util
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Event
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Dispatcher
+d----          11/11/2025    12:53                Emitter
+d----          11/11/2025    12:53                Events
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Value
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Event\Events
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Application
+d----          11/11/2025    12:53                Test
+d----          11/11/2025    12:53                TestRunner
+d----          11/11/2025    12:53                TestSuite
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Event\Events\Test
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                HookMethod
+d----          11/11/2025    12:53                Issue
+d----          11/11/2025    12:53                Lifecycle
+d----          11/11/2025    12:53                Outcome
+d----          11/11/2025    12:53                TestDouble
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Event\Value
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Runtime
+d----          11/11/2025    12:53                Telemetry
+d----          11/11/2025    12:53                Test
+d----          11/11/2025    12:53                TestSuite
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Event\Value\Test
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Issue
+d----          11/11/2025    12:53                TestData
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Assert
+d----          11/11/2025    12:53                Attributes
+d----          11/11/2025    12:53                Constraint
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                MockObject
+d----          11/11/2025    12:53                TestRunner
+d----          11/11/2025    12:53                TestSize
+d----          11/11/2025    12:53                TestStatus
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework\Constraint
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Boolean
+d----          11/11/2025    12:53                Cardinality
+d----          11/11/2025    12:53                Equality
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Filesystem
+d----          11/11/2025    12:53                Math
+d----          11/11/2025    12:53                Object
+d----          11/11/2025    12:53                Operator
+d----          11/11/2025    12:53                String
+d----          11/11/2025    12:53                Traversable
+d----          11/11/2025    12:53                Type
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework\Exception
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Incomplete
+d----          11/11/2025    12:53                ObjectEquals
+d----          11/11/2025    12:53                Skipped
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework\MockObject
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Generator
+d----          11/11/2025    12:53                Runtime
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework\MockObject\Generator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                templates
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework\MockObject\Runtime
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Api
+d----          11/11/2025    12:53                Builder
+d----          11/11/2025    12:53                Interface
+d----          11/11/2025    12:53                PropertyHook
+d----          11/11/2025    12:53                Rule
+d----          11/11/2025    12:53                Stub
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Framework\TestRunner
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                templates
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Logging
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                JUnit
+d----          11/11/2025    12:53                TeamCity
+d----          11/11/2025    12:53                TestDox
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Logging\JUnit
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Logging\TeamCity
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Logging\TestDox
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                TestResult
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Logging\TestDox\TestResult
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Metadata
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Api
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Version
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Metadata\Parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Annotation
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Baseline
+d----          11/11/2025    12:53                DeprecationCollector
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Extension
+d----          11/11/2025    12:53                Filter
+d----          11/11/2025    12:53                GarbageCollection
+d----          11/11/2025    12:53                HookMethod
+d----          11/11/2025    12:53                PHPT
+d----          11/11/2025    12:53                ResultCache
+d----          11/11/2025    12:53                TestResult
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner\Baseline
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner\DeprecationCollector
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner\GarbageCollection
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner\PHPT
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                templates
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner\ResultCache
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Runner\TestResult
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                Configuration
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Output
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Command
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Commands
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Configuration
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Cli
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Value
+d----          11/11/2025    12:53                Xml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Configuration\Xml
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                CodeCoverage
+d----          11/11/2025    12:53                Logging
+d----          11/11/2025    12:53                Migration
+d----          11/11/2025    12:53                SchemaDetector
+d----          11/11/2025    12:53                Validator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Configuration\Xml\CodeCoverage
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Report
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Configuration\Xml\Logging
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                TestDox
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Configuration\Xml\Migration
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Migrations
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Output
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Default
+d----          11/11/2025    12:53                Printer
+d----          11/11/2025    12:53                TestDox
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Output\Default
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                ProgressPrinter
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\TextUI\Output\Default\ProgressPrinter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Subscriber
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\phpunit\phpunit\src\Util
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Http
+d----          11/11/2025    12:53                PHP
+d----          11/11/2025    12:53                Xml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                clock
+d----          11/11/2025    12:53                container
+d----          11/11/2025    12:53                event-dispatcher
+d----          11/11/2025    12:53                http-client
+d----          11/11/2025    12:53                http-factory
+d----          11/11/2025    12:53                http-message
+d----          11/11/2025    12:53                log
+d----          11/11/2025    12:53                simple-cache
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\clock
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\container
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\event-dispatcher
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\http-client
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\http-factory
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\http-message
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                docs
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\log
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psr\simple-cache
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                psysh
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                CodeCleaner
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                ExecutionLoop
+d----          11/11/2025    12:53                Formatter
+d----          11/11/2025    12:53                Input
+d----          11/11/2025    12:53                Logger
+d----          11/11/2025    12:53                Manual
+d----          11/11/2025    12:53                ManualUpdater
+d----          11/11/2025    12:53                Output
+d----          11/11/2025    12:53                Readline
+d----          11/11/2025    12:53                Reflection
+d----          11/11/2025    12:53                Sudo
+d----          11/11/2025    12:53                TabCompletion
+d----          11/11/2025    12:53                Util
+d----          11/11/2025    12:53                VarDumper
+d----          11/11/2025    12:53                VersionUpdater
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src\Command
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                ListCommand
+d----          11/11/2025    12:53                TimeitCommand
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src\Readline
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Hoa
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src\Readline\Hoa
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Terminfo
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src\Readline\Hoa\Terminfo
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                77
+d----          11/11/2025    12:53                78
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src\TabCompletion
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                AutoloadWarmer
+d----          11/11/2025    12:53                Matcher
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\psy\psysh\src\VersionUpdater
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Downloader
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ralouphie
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                getallheaders
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ralouphie\getallheaders
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                collection
+d----          11/11/2025    12:53                uuid
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey\collection
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey\collection\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Map
+d----          11/11/2025    12:53                Tool
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey\uuid
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey\uuid\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Builder
+d----          11/11/2025    12:53                Codec
+d----          11/11/2025    12:53                Converter
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Fields
+d----          11/11/2025    12:53                Generator
+d----          11/11/2025    12:53                Guid
+d----          11/11/2025    12:53                Lazy
+d----          11/11/2025    12:53                Math
+d----          11/11/2025    12:53                Nonstandard
+d----          11/11/2025    12:53                Provider
+d----          11/11/2025    12:53                Rfc4122
+d----          11/11/2025    12:53                Type
+d----          11/11/2025    12:53                Validator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey\uuid\src\Converter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Number
+d----          11/11/2025    12:53                Time
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\ramsey\uuid\src\Provider
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Dce
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Time
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                cli-parser
+d----          11/11/2025    12:53                code-unit
+d----          11/11/2025    12:53                code-unit-reverse-lookup
+d----          11/11/2025    12:53                comparator
+d----          11/11/2025    12:53                complexity
+d----          11/11/2025    12:53                diff
+d----          11/11/2025    12:53                environment
+d----          11/11/2025    12:53                exporter
+d----          11/11/2025    12:53                global-state
+d----          11/11/2025    12:53                lines-of-code
+d----          11/11/2025    12:53                object-enumerator
+d----          11/11/2025    12:53                object-reflector
+d----          11/11/2025    12:53                recursion-context
+d----          11/11/2025    12:53                type
+d----          11/11/2025    12:53                version
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\cli-parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\cli-parser\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\code-unit
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\code-unit\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\code-unit-reverse-lookup
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\comparator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\comparator\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\complexity
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\complexity\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Complexity
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Visitor
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\diff
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\diff\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Output
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\environment
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\exporter
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\global-state
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\global-state\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exceptions
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\lines-of-code
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\lines-of-code\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\object-enumerator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\object-reflector
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\recursion-context
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\type
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\type\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                exception
+d----          11/11/2025    12:53                type
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\sebastian\version
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\staabm
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                side-effects-detector
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\staabm\side-effects-detector
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                lib
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                clock
+d----          11/11/2025    12:53                console
+d----          11/11/2025    12:53                css-selector
+d----          11/11/2025    12:53                deprecation-contracts
+d----          11/11/2025    12:53                error-handler
+d----          11/11/2025    12:53                event-dispatcher
+d----          11/11/2025    12:53                event-dispatcher-contracts
+d----          11/11/2025    12:53                finder
+d----          11/11/2025    12:53                http-foundation
+d----          11/11/2025    12:53                http-kernel
+d----          11/11/2025    12:53                mailer
+d----          11/11/2025    12:53                mime
+d----          11/11/2025    12:53                polyfill-ctype
+d----          11/11/2025    12:53                polyfill-intl-grapheme
+d----          11/11/2025    12:53                polyfill-intl-idn
+d----          11/11/2025    12:53                polyfill-intl-normalizer
+d----          11/11/2025    12:53                polyfill-mbstring
+d----          11/11/2025    12:53                polyfill-php80
+d----          11/11/2025    12:53                polyfill-php83
+d----          11/11/2025    12:53                polyfill-php84
+d----          11/11/2025    12:53                polyfill-php85
+d----          11/11/2025    12:53                polyfill-uuid
+d----          11/11/2025    12:53                process
+d----          11/11/2025    12:53                routing
+d----          11/11/2025    12:53                service-contracts
+d----          11/11/2025    12:53                string
+d----          11/11/2025    12:53                translation
+d----          11/11/2025    12:53                translation-contracts
+d----          11/11/2025    12:53                uid
+d----          11/11/2025    12:53                var-dumper
+d----          11/11/2025    12:53                yaml
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\clock
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\console
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                CI
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                CommandLoader
+d----          11/11/2025    12:53                Completion
+d----          11/11/2025    12:53                DataCollector
+d----          11/11/2025    12:53                Debug
+d----          11/11/2025    12:53                DependencyInjection
+d----          11/11/2025    12:53                Descriptor
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                EventListener
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Formatter
+d----          11/11/2025    12:53                Helper
+d----          11/11/2025    12:53                Input
+d----          11/11/2025    12:53                Logger
+d----          11/11/2025    12:53                Messenger
+d----          11/11/2025    12:53                Output
+d----          11/11/2025    12:53                Question
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                SignalRegistry
+d----          11/11/2025    12:53                Style
+d----          11/11/2025    12:53                Tester
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\console\Completion
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Output
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\console\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\console\Tester
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Constraint
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\css-selector
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Node
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                XPath
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\css-selector\Parser
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Handler
+d----          11/11/2025    12:53                Shortcut
+d----          11/11/2025    12:53                Tokenizer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\css-selector\XPath
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Extension
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\error-handler
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                Error
+d----          11/11/2025    12:53                ErrorEnhancer
+d----          11/11/2025    12:53                ErrorRenderer
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Internal
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\error-handler\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                assets
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                views
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\error-handler\Resources\assets
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                css
+d----          11/11/2025    12:53                images
+d----          11/11/2025    12:53                js
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\event-dispatcher
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                Debug
+d----          11/11/2025    12:53                DependencyInjection
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\finder
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Comparator
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Iterator
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-foundation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                File
+d----          11/11/2025    12:53                RateLimiter
+d----          11/11/2025    12:53                RequestMatcher
+d----          11/11/2025    12:53                Session
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-foundation\File
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-foundation\Session
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                Flash
+d----          11/11/2025    12:53                Storage
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-foundation\Session\Storage
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Handler
+d----          11/11/2025    12:53                Proxy
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-foundation\Test
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Constraint
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-kernel
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                Bundle
+d----          11/11/2025    12:53                CacheClearer
+d----          11/11/2025    12:53                CacheWarmer
+d----          11/11/2025    12:53                Config
+d----          11/11/2025    12:53                Controller
+d----          11/11/2025    12:53                ControllerMetadata
+d----          11/11/2025    12:53                DataCollector
+d----          11/11/2025    12:53                Debug
+d----          11/11/2025    12:53                DependencyInjection
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                EventListener
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Fragment
+d----          11/11/2025    12:53                HttpCache
+d----          11/11/2025    12:53                Log
+d----          11/11/2025    12:53                Profiler
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\http-kernel\Controller
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                ArgumentResolver
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mailer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                DataCollector
+d----          11/11/2025    12:53                Event
+d----          11/11/2025    12:53                EventListener
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Header
+d----          11/11/2025    12:53                Messenger
+d----          11/11/2025    12:53                Test
+d----          11/11/2025    12:53                Transport
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mailer\Test
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Constraint
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mailer\Transport
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Smtp
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mailer\Transport\Smtp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Auth
+d----          11/11/2025    12:53                Stream
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mime
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Crypto
+d----          11/11/2025    12:53                DependencyInjection
+d----          11/11/2025    12:53                Encoder
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Header
+d----          11/11/2025    12:53                HtmlToTextConverter
+d----          11/11/2025    12:53                Part
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mime\Part
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Multipart
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mime\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\mime\Test
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Constraint
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-intl-idn
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-intl-idn\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                unidata
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-intl-normalizer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-intl-normalizer\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+d----          11/11/2025    12:53                unidata
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-mbstring
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-mbstring\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                unidata
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php80
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php80\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php83
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php83\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php84
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php84\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php85
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\polyfill-php85\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                stubs
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\process
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Messenger
+d----          11/11/2025    12:53                Pipes
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\routing
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Annotation
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                DependencyInjection
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Generator
+d----          11/11/2025    12:53                Loader
+d----          11/11/2025    12:53                Matcher
+d----          11/11/2025    12:53                Requirement
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\routing\Generator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Dumper
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\routing\Loader
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Configurator
+d----          11/11/2025    12:53                schema
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\routing\Loader\Configurator
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Traits
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\routing\Loader\schema
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                routing
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\routing\Matcher
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Dumper
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\service-contracts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Attribute
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\string
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Inflector
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Slugger
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\string\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                data
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\translation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Catalogue
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                DataCollector
+d----          11/11/2025    12:53                DependencyInjection
+d----          11/11/2025    12:53                Dumper
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Extractor
+d----          11/11/2025    12:53                Formatter
+d----          11/11/2025    12:53                Loader
+d----          11/11/2025    12:53                Provider
+d----          11/11/2025    12:53                Reader
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Test
+d----          11/11/2025    12:53                Util
+d----          11/11/2025    12:53                Writer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\translation\Extractor
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Visitor
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\translation\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                data
+d----          11/11/2025    12:53                schemas
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\translation-contracts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\uid
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Factory
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\var-dumper
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Caster
+d----          11/11/2025    12:53                Cloner
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                Dumper
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Server
+d----          11/11/2025    12:53                Test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\var-dumper\Command
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Descriptor
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\var-dumper\Dumper
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                ContextProvider
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\var-dumper\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+d----          11/11/2025    12:53                css
+d----          11/11/2025    12:53                functions
+d----          11/11/2025    12:53                js
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\yaml
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Command
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Resources
+d----          11/11/2025    12:53                Tag
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\symfony\yaml\Resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                bin
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\theseer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                tokenizer
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\theseer\tokenizer
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\tijsverkoyen
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                css-to-inline-styles
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\tijsverkoyen\css-to-inline-styles
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\tijsverkoyen\css-to-inline-styles\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Css
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\tijsverkoyen\css-to-inline-styles\src\Css
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Property
+d----          11/11/2025    12:53                Rule
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\vlucas
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                phpdotenv
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\vlucas\phpdotenv
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\vlucas\phpdotenv\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Exception
+d----          11/11/2025    12:53                Loader
+d----          11/11/2025    12:53                Parser
+d----          11/11/2025    12:53                Repository
+d----          11/11/2025    12:53                Store
+d----          11/11/2025    12:53                Util
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\vlucas\phpdotenv\src\Repository
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                Adapter
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\vlucas\phpdotenv\src\Store
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                File
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\voku
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                portable-ascii
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\voku\portable-ascii
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                src
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\voku\portable-ascii\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                voku
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\voku\portable-ascii\src\voku
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                helper
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\food-service\vendor\voku\portable-ascii\src\voku\helper
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                data
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                .mvn
+d----          11/11/2025    12:53                src
+d----          11/11/2025    12:53                target
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\.mvn
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                wrapper
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                main
+d----          11/11/2025    12:53                test
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\main
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                java
+d----          11/11/2025    12:53                resources
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\main\java
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                com
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\main\java\com
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                nutririsk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\main\java\com\nutririsk
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                risk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\main\java\com\nutririsk\risk
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                controller
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\main\resources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                static
+d----          11/11/2025    12:53                templates
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\test
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                java
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\test\java
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                com
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\test\java\com
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                nutririsk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\src\test\java\com\nutririsk
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                risk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                classes
+d----          11/11/2025    12:53                generated-sources
+d----          11/11/2025    12:53                generated-test-sources
+d----          11/11/2025    12:53                maven-archiver
+d----          11/11/2025    12:53                maven-status
+d----          11/11/2025    12:53                test-classes
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\classes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                com
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\classes\com
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                nutririsk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\classes\com\nutririsk
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                risk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\classes\com\nutririsk\risk
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                controller
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\generated-sources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                annotations
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\generated-test-sources
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                test-annotations
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\maven-status
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                maven-compiler-plugin
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\maven-status\maven-compiler-plugin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                compile
+d----          11/11/2025    12:53                testCompile
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\maven-status\maven-compiler-plugin\compile
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                default-compile
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\maven-status\maven-compiler-plugin\testCompile
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                default-testCompile
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\test-classes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                com
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\test-classes\com
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                nutririsk
+
+    Directory: C:\Users\white\Documents\nutri-risk-app\services\risk-service\target\test-classes\com\nutririsk
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          11/11/2025    12:53                risk
+
