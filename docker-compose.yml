@@ -50,6 +50,8 @@ services:
       dockerfile: ../../infra/docker/Dockerfile.php
     container_name: nutri-php
     restart: unless-stopped
+    expose:
+      - "8000"
     depends_on:
       db:
         condition: service_healthy
