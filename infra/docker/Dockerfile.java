@@ -2,17 +2,20 @@
 FROM maven:3.9.6-eclipse-temurin-17 AS build
 WORKDIR /app
 
-# Copiar solo el pom.xml para aprovechar la caché de Docker
-COPY pom.xml .
-RUN ./mvnw dependency:go-offline -B
+# Copiar el wrapper de Maven y el pom.xml
+COPY .mvn/ .mvn
+COPY mvnw mvnw.cmd pom.xml ./
 
-# Copiar el resto del código
-COPY src ./src
-
-# ¡HACER EJECUTABLE!
+# Hacer ejecutable el script de Maven
 RUN chmod +x mvnw
 
-# Compilar SIN tests
+# Descargar dependencias
+RUN ./mvnw dependency:go-offline -B
+
+# Copiar el resto del código fuente
+COPY src ./src
+
+# Compilar la aplicación sin ejecutar tests
 RUN ./mvnw package -DskipTests
 
 # Etapa final
