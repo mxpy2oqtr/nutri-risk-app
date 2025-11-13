@@ -41,12 +41,18 @@ RUN composer install --optimize-autoloader --no-dev --no-interaction \
     && chown -R appuser:appgroup /var/www/html \
     && chmod -R 755 storage bootstrap/cache
 
-# Cambiar a usuario no root
-USER appuser
-
-# Configs
+# Configs - ¡ANTES DE CAMBIAR DE USUARIO!
 COPY nginx.conf /etc/nginx/http.d/default.conf
 COPY supervisord.conf /etc/supervisord.conf
+
+# Preparar Nginx para que se ejecute como no root (en la práctica)
+# Aunque supervisor lo lanza como root, los workers correrán como 'appuser'
+RUN sed -i 's/user nginx;/user appuser;/' /etc/nginx/nginx.conf \
+    && mkdir -p /var/lib/nginx/tmp \
+    && chown -R appuser:appgroup /var/lib/nginx /var/log/nginx /run/nginx
+
+# Cambiar a usuario no root (si es necesario para otros comandos)
+# USER appuser
 
 EXPOSE 8000
 

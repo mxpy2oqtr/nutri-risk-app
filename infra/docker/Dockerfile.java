@@ -32,4 +32,4 @@ COPY --chown=appuser:appgroup --from=build /app/target/risk-service-0.0.1-SNAPSH
 USER appuser
 
 EXPOSE 8081
-ENTRYPOINT ["java", "-jar", "app.jar"]
+ENTRYPOINT ["java", "-Dlogging.level.org.springframework=DEBUG", "-jar", "app.jar"]
