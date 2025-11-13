@@ -76,60 +76,80 @@
 - **Contenedores**: Docker + Docker Compose
 - **APIs**: REST + JSON
 
-## 🚀 Setup Rápido
+## 🚀 Guía de Inicio Rápido
+
+Esta guía te llevará desde la clonación del repositorio hasta tener la aplicación completamente funcional en tu entorno local usando Docker.
+
+### **1. Prerrequisitos**
+
+Antes de empezar, asegúrate de tener instaladas las siguientes herramientas:
+- **Git**: Para clonar el repositorio.
+- **Docker**: Para la gestión de contenedores.
+- **Docker Compose**: Para orquestar los servicios de la aplicación.
+
+### **2. Clonar el Repositorio**
+
+Abre tu terminal, navega al directorio donde deseas guardar el proyecto y clona el repositorio de GitHub:
 
 ```bash
-# Clonar proyecto
-git clone https://github.com/mxpy2oqtr/nutri-risk-app.git
+git clone https://github.com/tu-usuario/nutri-risk-app.git
 cd nutri-risk-app
+```
 
-# Ejecutar con Docker
-docker-compose up -d
+### **3. Configuración del Entorno**
+
+El proyecto utiliza un archivo `.env` para gestionar las variables de entorno. Puedes empezar copiando el archivo de ejemplo:
+
+```bash
+cp .env.example .env
+```
+*No es necesario modificar este archivo para el entorno de desarrollo local, ya que los valores por defecto están configurados para funcionar con Docker Compose.*
+
+### **4. Construir y Ejecutar los Contenedores**
+
+Una vez dentro del directorio del proyecto, utiliza Docker Compose para construir las imágenes de los servicios y ejecutarlos en segundo plano (`-d`):
+
+```bash
+docker-compose build --no-cache && docker-compose up -d
+```
+- `build --no-cache`: Reconstruye las imágenes desde cero para asegurar que todos los cambios en los `Dockerfile` se apliquen correctamente.
+- `up -d`: Inicia los contenedores en modo "detached" (segundo plano).
+
+### **5. Verificar que Todo Funciona**
+
+Después de ejecutar el comando anterior, los servicios pueden tardar un par de minutos en iniciarse completamente, especialmente la base de datos y el servicio de Java.
+
+Puedes verificar el estado de los contenedores con:
+```bash
+docker-compose ps
+```
+Deberías ver todos los servicios (`nutri-db`, `nutri-php`, `nutri-java`) con el estado `Up` o `running`.
+
+Para ver los logs en tiempo real de todos los servicios y depurar posibles errores:
+```bash
+docker-compose logs -f
+```
+Para ver los logs de un servicio específico (por ejemplo, el de Java):
+```bash
+docker-compose logs -f nutri-java
+```
+
+### **6. Acceder a la Aplicación**
+
+Una vez que los contenedores estén en funcionamiento, puedes acceder a los servicios a través de los siguientes puertos:
+
+- **Interfaz de Usuario (Frontend)**: [http://localhost:8000](http://localhost:8000)
+- **API de PHP (Food Service)**: `http://localhost:8000/api/...`
+- **API de Java (Risk Service)**: `http://localhost:8081/api/...`
+
+### **7. Detener la Aplicación**
+
+Para detener todos los servicios, ejecuta:
+```bash
+docker-compose down
 ```
 
 -------------------------------------------------------
-
-
-### Servicios y Responsabilidades
-
-#### 🎨 Frontend (HTML/JS/Chart.js)
-- **Tecnología**: HTML5, TailwindCSS, JavaScript, Chart.js
-- **Responsabilidad**: Interfaz de usuario, visualización de datos
-- **Comunicación**: Fetch API hacia backend PHP
-
-#### 🔐 PHP Laravel Service
-- **Tecnología**: PHP 8.3, Laravel Framework
-- **Endpoints**:
-  - `POST /api/register` - Registro de usuarios
-  - `POST /api/login` - Autenticación
-  - `POST /api/foods` - Registrar alimentos consumidos
-  - `GET /api/foods` - Obtener historial de alimentos
-- **Responsabilidad**: Gestión de usuarios y registro de alimentos
-
-#### 🔬 Java Spring Boot Service
-- **Tecnología**: Java 21, Spring Boot
-- **Endpoints**:
-  - `POST /api/analyze` - Análisis de riesgo nutricional
-  - `GET /api/risks/{userId}` - Obtener historial de riesgos
-- **Responsabilidad**: Análisis avanzado de riesgos (alergenos, glucosa, etc.)
-
-#### 💾 PostgreSQL Database
-- **Tecnología**: PostgreSQL 15+
-- **Esquemas**: usuarios, alimentos, análisis_riesgos, historial
-- **Responsabilidad**: Almacenamiento persistente de datos
-
-### Flujo de una Consulta Típica
-1. Usuario ingresa alimento en frontend
-2. Frontend envía a PHP Laravel (`POST /api/foods`)
-3. PHP Laravel guarda en PostgreSQL y envía a Java (`POST /api/analyze`)
-4. Java Spring Boot analiza riesgos y devuelve resultados
-5. Frontend muestra alertas y actualiza dashboard
-
-## 🚀 Ejecución
-```bash
-docker-compose up -d
-
---------------------------------------------------------
 
 📅 Demo (Semana 4)
 [Video demo aquí]
