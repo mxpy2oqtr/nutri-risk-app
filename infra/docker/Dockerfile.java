@@ -26,7 +26,7 @@ RUN addgroup -g 1000 appgroup && \
     adduser -u 1000 -G appgroup -s /bin/sh -D appuser
 
 WORKDIR /app
-COPY --from=build /app/target/risk-service-0.0.1-SNAPSHOT.jar app.jar
+COPY --chown=appuser:appgroup --from=build /app/target/risk-service-0.0.1-SNAPSHOT.jar app.jar
 
 # Cambiar a usuario no root
 USER appuser
