@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use App\Http\Requests\StoreFoodRequest;
 use App\Models\Food;
 
 class FoodController extends Controller
@@ -13,9 +13,9 @@ class FoodController extends Controller
         return response()->json($foods);
     }
 
-    public function store(Request $request)
+    public function store(StoreFoodRequest $request)
     {
-        $food = Food::create($request->all());
+        $food = Food::create($request->validated());
         return response()->json($food, 201);
     }
 
@@ -30,7 +30,7 @@ class FoodController extends Controller
         return response()->json($food);
     }
 
-    public function update(Request $request, string $id)
+    public function update(StoreFoodRequest $request, string $id)
     {
         $food = Food::find($id);
         
@@ -38,7 +38,7 @@ class FoodController extends Controller
             return response()->json(['error' => 'Food not found'], 404);
         }
         
-        $food->update($request->all());
+        $food->update($request->validated());
         return response()->json($food);
     }
 

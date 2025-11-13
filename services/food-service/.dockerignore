@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+/storage/*.log
+/bootstrap/cache/*.php
+README.md

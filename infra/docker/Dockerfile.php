@@ -16,6 +16,10 @@ RUN apk add --no-cache \
 # Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
+# Crear usuario no root
+RUN addgroup -g 1000 appgroup && \
+    adduser -u 1000 -G appgroup -s /bin/sh -D appuser
+
 # Copia código
 WORKDIR /var/www/html
 COPY . .
@@ -34,8 +38,11 @@ RUN composer install --optimize-autoloader --no-dev --no-interaction \
     fi \
     # LUEGO: Ejecutar migraciones (necesita api.php existente)
     && php artisan migrate --force \
-    && chown -R www-data:www-data /var/www/html \
+    && chown -R appuser:appgroup /var/www/html \
     && chmod -R 755 storage bootstrap/cache
+
+# Cambiar a usuario no root
+USER appuser
 
 # Configs
 COPY nginx.conf /etc/nginx/http.d/default.conf
